@@ -33,3 +33,10 @@ DerivedData/
 *.dmg
 *.app
 *.zip
+
+# Secrets & credentials
+.env*
+*.key
+*.pem
+credentials*
+secrets*
